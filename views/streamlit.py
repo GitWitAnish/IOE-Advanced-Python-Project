@@ -50,7 +50,6 @@ def show_predict_tab(df: pd.DataFrame, model) -> None:
 
 	companies = sorted(df["company"].dropna().unique().tolist())
 	fuel_types = sorted(df["fuel_type"].dropna().unique().tolist())
-	car_names = sorted(df["name"].dropna().unique().tolist())
 
 	col1, col2 = st.columns(2)
 	with col1:
@@ -58,7 +57,10 @@ def show_predict_tab(df: pd.DataFrame, model) -> None:
 		year = st.slider("Manufacturing Year", min_value=1995, max_value=CURRENT_YEAR, value=2018)
 		fuel_type = st.selectbox("Fuel Type", fuel_types)
 	with col2:
-		name = st.selectbox("Car Name", car_names)
+		company_car_names = sorted(
+			df.loc[df["company"] == company, "name"].dropna().unique().tolist()
+		)
+		name = st.selectbox("Car Name", company_car_names)
 		kms_driven = st.number_input("Kilometers Driven", min_value=0, max_value=1_000_000, value=30_000, step=1_000)
 
 	if st.button("Predict Price", type="primary"):
