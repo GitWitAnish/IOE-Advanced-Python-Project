@@ -1,5 +1,38 @@
-# Ignore Jupyter Notebook checkpoints
-.ipynb_checkpoints/
+# Environment
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
 
-# Ignore temporary notebook files
-*.nbconvert.ipynb
+
+# Notebooks
+.ipynb_checkpoints/
+notebooks/*.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.temp/
+tmp/
+
+# Python build artifacts
+*.egg-info/
+dist/
+build/
+*.egg
+
+# OS files
+.DS_Store
+Thumbs.db
