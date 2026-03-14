@@ -1,0 +1,190 @@
+date,home_team,away_team,home_goals,away_goals,stadium
+2025-09-16,Athletic Club,Arsenal,0,2,San Mamés
+2025-09-16,PSV Eindhoven,Union St.-Gilloise,1,3,Philips Stadion
+2025-09-16,Benfica,FK Qarabag,2,3,Estádio da Luz
+2025-09-16,Juventus,Borussia Dortmund,4,4,Allianz Stadium
+2025-09-16,Real Madrid,Marseille,2,1,Santiago Bernabéu
+2025-09-16,Tottenham Hotspur,Villarreal,1,0,Tottenham Hotspur Stadium
+2025-09-17,Olympiacos,Pafos,0,0,Georgios Karaiskakis Stadium
+2025-09-17,Slavia Prague,Bodo/Glimt,2,2,Fortuna Arena
+2025-09-17,Ajax Amsterdam,Internazionale,0,2,Johan Cruijff Arena
+2025-09-17,Bayern Munich,Chelsea,3,1,Allianz Arena
+2025-09-17,Liverpool,Atlético Madrid,3,2,Anfield
+2025-09-17,Paris Saint-Germain,Atalanta,4,0,Parc des Princes
+2025-09-18,Club Brugge,AS Monaco,4,1,Jan Breydel Stadium
+2025-09-18,F.C. København,Bayer Leverkusen,2,2,Parken Stadium
+2025-09-18,Eintracht Frankfurt,Galatasaray,5,1,Deutsche Bank Park
+2025-09-18,Manchester City,Napoli,2,0,Etihad Stadium
+2025-09-18,Newcastle United,Barcelona,1,2,St. James' Park
+2025-09-18,Sporting CP,Kairat Almaty,4,1,Estádio José Alvalade
+2025-09-30,Atalanta,Club Brugge,2,1,New Balance Arena
+2025-09-30,Kairat Almaty,Real Madrid,0,5,Almaty Ortalyk Stadium
+2025-09-30,Atlético Madrid,Eintracht Frankfurt,5,1,Riyadh Air Metropolitano
+2025-09-30,Bodo/Glimt,Tottenham Hotspur,2,2,Aspmyra Stadion
+2025-09-30,Chelsea,Benfica,1,0,Stamford Bridge
+2025-09-30,Galatasaray,Liverpool,1,0,RAMS Park
+2025-09-30,Internazionale,Slavia Prague,3,0,San Siro
+2025-09-30,Marseille,Ajax Amsterdam,4,0,Stade Vélodrome
+2025-09-30,Pafos,Bayern Munich,1,5,Alphamega Stadium
+2025-10-01,FK Qarabag,F.C. København,2,0,Tofiq Bahramov Republican Stadium
+2025-10-01,Union St.-Gilloise,Newcastle United,0,4,Lotto Park
+2025-10-01,Arsenal,Olympiacos,2,0,Emirates Stadium
+2025-10-01,AS Monaco,Manchester City,2,2,Stade Louis II
+2025-10-01,Barcelona,Paris Saint-Germain,1,2,Estadi Olímpic Lluís Companys
+2025-10-01,Bayer Leverkusen,PSV Eindhoven,1,1,BayArena
+2025-10-01,Borussia Dortmund,Athletic Club,4,1,Signal Iduna Park
+2025-10-01,Napoli,Sporting CP,2,1,Stadio Diego Armando Maradona
+2025-10-01,Villarreal,Juventus,2,2,Estadio de la Cerámica
+2025-10-21,Barcelona,Olympiacos,6,1,Estadi Olímpic Lluís Companys
+2025-10-21,Kairat Almaty,Pafos,0,0,Almaty Ortalyk Stadium
+2025-10-21,Arsenal,Atlético Madrid,4,0,Emirates Stadium
+2025-10-21,Bayer Leverkusen,Paris Saint-Germain,2,7,BayArena
+2025-10-21,F.C. København,Borussia Dortmund,2,4,Parken Stadium
+2025-10-21,Newcastle United,Benfica,3,0,St. James' Park
+2025-10-21,PSV Eindhoven,Napoli,6,2,Philips Stadion
+2025-10-21,Union St.-Gilloise,Internazionale,0,4,Lotto Park
+2025-10-21,Villarreal,Manchester City,0,2,Estadio de la Cerámica
+2025-10-22,Athletic Club,FK Qarabag,3,1,San Mamés
+2025-10-22,Galatasaray,Bodo/Glimt,3,1,RAMS Park
+2025-10-22,AS Monaco,Tottenham Hotspur,0,0,Stade Louis II
+2025-10-22,Atalanta,Slavia Prague,0,0,New Balance Arena
+2025-10-22,Bayern Munich,Club Brugge,4,0,Allianz Arena
+2025-10-22,Chelsea,Ajax Amsterdam,5,1,Stamford Bridge
+2025-10-22,Eintracht Frankfurt,Liverpool,1,5,Deutsche Bank Park
+2025-10-22,Real Madrid,Juventus,1,0,Santiago Bernabéu
+2025-10-22,Sporting CP,Marseille,2,1,Estádio José Alvalade
+2025-11-04,Napoli,Eintracht Frankfurt,0,0,Stadio Diego Armando Maradona
+2025-11-04,Slavia Prague,Arsenal,0,3,Fortuna Arena
+2025-11-04,Atlético Madrid,Union St.-Gilloise,3,1,Riyadh Air Metropolitano
+2025-11-04,Bodo/Glimt,AS Monaco,0,1,Aspmyra Stadion
+2025-11-04,Juventus,Sporting CP,1,1,Allianz Stadium
+2025-11-04,Liverpool,Real Madrid,1,0,Anfield
+2025-11-04,Olympiacos,PSV Eindhoven,1,1,Georgios Karaiskakis Stadium
+2025-11-04,Paris Saint-Germain,Bayern Munich,1,2,Parc des Princes
+2025-11-04,Tottenham Hotspur,F.C. København,4,0,Tottenham Hotspur Stadium
+2025-11-05,FK Qarabag,Chelsea,2,2,Tofiq Bahramov Republican Stadium
+2025-11-05,Pafos,Villarreal,1,0,Alphamega Stadium
+2025-11-05,Ajax Amsterdam,Galatasaray,0,3,Johan Cruijff Arena
+2025-11-05,Benfica,Bayer Leverkusen,0,1,Estádio da Luz
+2025-11-05,Club Brugge,Barcelona,3,3,Jan Breydel Stadium
+2025-11-05,Internazionale,Kairat Almaty,2,1,San Siro
+2025-11-05,Manchester City,Borussia Dortmund,4,1,Etihad Stadium
+2025-11-05,Marseille,Atalanta,0,1,Stade Vélodrome
+2025-11-05,Newcastle United,Athletic Club,2,0,St. James' Park
+2025-11-25,Ajax Amsterdam,Benfica,0,2,Johan Cruijff Arena
+2025-11-25,Galatasaray,Union St.-Gilloise,0,1,RAMS Park
+2025-11-25,Bodo/Glimt,Juventus,2,3,Aspmyra Stadion
+2025-11-25,Borussia Dortmund,Villarreal,4,0,Signal Iduna Park
+2025-11-25,Chelsea,Barcelona,3,0,Stamford Bridge
+2025-11-25,Manchester City,Bayer Leverkusen,0,2,Etihad Stadium
+2025-11-25,Marseille,Newcastle United,2,1,Stade Vélodrome
+2025-11-25,Napoli,FK Qarabag,2,0,Stadio Diego Armando Maradona
+2025-11-25,Slavia Prague,Athletic Club,0,0,Fortuna Arena
+2025-11-26,F.C. København,Kairat Almaty,3,2,Parken Stadium
+2025-11-26,Pafos,AS Monaco,2,2,Alphamega Stadium
+2025-11-26,Arsenal,Bayern Munich,3,1,Emirates Stadium
+2025-11-26,Atlético Madrid,Internazionale,2,1,Riyadh Air Metropolitano
+2025-11-26,Eintracht Frankfurt,Atalanta,0,3,Deutsche Bank Park
+2025-11-26,Liverpool,PSV Eindhoven,1,4,Anfield
+2025-11-26,Olympiacos,Real Madrid,3,4,Georgios Karaiskakis Stadium
+2025-11-26,Paris Saint-Germain,Tottenham Hotspur,5,3,Parc des Princes
+2025-11-26,Sporting CP,Club Brugge,3,0,Estádio José Alvalade
+2025-12-09,Kairat Almaty,Olympiacos,0,1,Astana Arena
+2025-12-09,Bayern Munich,Sporting CP,3,1,Allianz Arena
+2025-12-09,AS Monaco,Galatasaray,1,0,Stade Louis II
+2025-12-09,Atalanta,Chelsea,2,1,New Balance Arena
+2025-12-09,Barcelona,Eintracht Frankfurt,2,1,Spotify Camp Nou
+2025-12-09,Internazionale,Liverpool,0,1,San Siro
+2025-12-09,PSV Eindhoven,Atlético Madrid,2,3,Philips Stadion
+2025-12-09,Tottenham Hotspur,Slavia Prague,3,0,Tottenham Hotspur Stadium
+2025-12-09,Union St.-Gilloise,Marseille,2,3,Lotto Park
+2025-12-10,FK Qarabag,Ajax Amsterdam,2,4,Tofiq Bahramov Republican Stadium
+2025-12-10,Villarreal,F.C. København,2,3,Estadio de la Cerámica
+2025-12-10,Athletic Club,Paris Saint-Germain,0,0,San Mamés
+2025-12-10,Bayer Leverkusen,Newcastle United,2,2,BayArena
+2025-12-10,Benfica,Napoli,2,0,Estádio da Luz
+2025-12-10,Borussia Dortmund,Bodo/Glimt,2,2,Signal Iduna Park
+2025-12-10,Club Brugge,Arsenal,0,3,Jan Breydel Stadium
+2025-12-10,Juventus,Pafos,2,0,Allianz Stadium
+2025-12-10,Real Madrid,Manchester City,1,2,Santiago Bernabéu
+2026-01-20,Kairat Almaty,Club Brugge,1,4,Astana Arena
+2026-01-20,Bodo/Glimt,Manchester City,3,1,Aspmyra Stadion
+2026-01-20,F.C. København,Napoli,1,1,Parken Stadium
+2026-01-20,Internazionale,Arsenal,1,3,San Siro
+2026-01-20,Olympiacos,Bayer Leverkusen,2,0,Georgios Karaiskakis Stadium
+2026-01-20,Real Madrid,AS Monaco,6,1,Santiago Bernabéu
+2026-01-20,Sporting CP,Paris Saint-Germain,2,1,Estádio José Alvalade
+2026-01-20,Tottenham Hotspur,Borussia Dortmund,2,0,Tottenham Hotspur Stadium
+2026-01-20,Villarreal,Ajax Amsterdam,1,2,Estadio de la Cerámica
+2026-01-21,FK Qarabag,Eintracht Frankfurt,3,2,Tofiq Bahramov Republican Stadium
+2026-01-21,Galatasaray,Atlético Madrid,1,1,RAMS Park
+2026-01-21,Atalanta,Athletic Club,2,3,New Balance Arena
+2026-01-21,Bayern Munich,Union St.-Gilloise,2,0,Allianz Arena
+2026-01-21,Chelsea,Pafos,1,0,Stamford Bridge
+2026-01-21,Juventus,Benfica,2,0,Allianz Stadium
+2026-01-21,Marseille,Liverpool,0,3,Stade Vélodrome
+2026-01-21,Newcastle United,PSV Eindhoven,3,0,St. James' Park
+2026-01-21,Slavia Prague,Barcelona,2,4,Fortuna Arena
+2026-01-28,Ajax Amsterdam,Olympiacos,1,2,Johan Cruijff Arena
+2026-01-28,Arsenal,Kairat Almaty,3,2,Emirates Stadium
+2026-01-28,AS Monaco,Juventus,0,0,Stade Louis II
+2026-01-28,Athletic Club,Sporting CP,2,3,San Mamés
+2026-01-28,Atlético Madrid,Bodo/Glimt,1,2,Riyadh Air Metropolitano
+2026-01-28,Barcelona,F.C. København,4,1,Spotify Camp Nou
+2026-01-28,Bayer Leverkusen,Villarreal,3,0,BayArena
+2026-01-28,Benfica,Real Madrid,4,2,Estádio da Luz
+2026-01-28,Borussia Dortmund,Internazionale,0,2,Signal Iduna Park
+2026-01-28,Club Brugge,Marseille,3,0,Jan Breydel Stadium
+2026-01-28,Eintracht Frankfurt,Tottenham Hotspur,0,2,Deutsche Bank Park
+2026-01-28,Liverpool,FK Qarabag,6,0,Anfield
+2026-01-28,Manchester City,Galatasaray,2,0,Etihad Stadium
+2026-01-28,Napoli,Chelsea,2,3,Stadio Diego Armando Maradona
+2026-01-28,Pafos,Slavia Prague,4,1,Alphamega Stadium
+2026-01-28,Paris Saint-Germain,Newcastle United,1,1,Parc des Princes
+2026-01-28,PSV Eindhoven,Bayern Munich,1,2,Philips Stadion
+2026-01-28,Union St.-Gilloise,Atalanta,1,0,Lotto Park
+2026-02-17,Galatasaray,Juventus,5,2,RAMS Park
+2026-02-17,AS Monaco,Paris Saint-Germain,2,3,Stade Louis II
+2026-02-17,Benfica,Real Madrid,0,1,Estádio da Luz
+2026-02-17,Borussia Dortmund,Atalanta,2,0,Signal Iduna Park
+2026-02-18,FK Qarabag,Newcastle United,1,6,Tofiq Bahramov Republican Stadium
+2026-02-18,Bodo/Glimt,Internazionale,3,1,Aspmyra Stadion
+2026-02-18,Club Brugge,Atlético Madrid,3,3,Jan Breydel Stadium
+2026-02-18,Olympiacos,Bayer Leverkusen,0,2,Georgios Karaiskakis Stadium
+2026-02-24,Atlético Madrid,Club Brugge,4,1,Riyadh Air Metropolitano
+2026-02-24,Bayer Leverkusen,Olympiacos,0,0,BayArena
+2026-02-24,Internazionale,Bodo/Glimt,1,2,San Siro
+2026-02-24,Newcastle United,FK Qarabag,3,2,St. James' Park
+2026-02-25,Atalanta,Borussia Dortmund,4,1,New Balance Arena
+2026-02-25,Juventus,Galatasaray,3,2,Allianz Stadium
+2026-02-25,Paris Saint-Germain,AS Monaco,2,2,Parc des Princes
+2026-02-25,Real Madrid,Benfica,2,1,Santiago Bernabéu
+2026-03-10,Galatasaray,Liverpool,1,0,RAMS Park
+2026-03-10,Atalanta,Bayern Munich,1,6,New Balance Arena
+2026-03-10,Atlético Madrid,Tottenham Hotspur,5,2,Riyadh Air Metropolitano
+2026-03-10,Newcastle United,Barcelona,1,1,St. James' Park
+2026-03-11,Bayer Leverkusen,Arsenal,1,1,BayArena
+2026-03-11,Bodo/Glimt,Sporting CP,3,0,Aspmyra Stadion
+2026-03-11,Paris Saint-Germain,Chelsea,5,2,Parc des Princes
+2026-03-11,Real Madrid,Manchester City,3,0,Santiago Bernabéu
+2026-03-17,Sporting CP,Bodo/Glimt,0,0,Estádio José Alvalade
+2026-03-17,Arsenal,Bayer Leverkusen,0,0,Emirates Stadium
+2026-03-17,Chelsea,Paris Saint-Germain,0,0,Stamford Bridge
+2026-03-17,Manchester City,Real Madrid,0,0,Etihad Stadium
+2026-03-18,Barcelona,Newcastle United,0,0,Spotify Camp Nou
+2026-03-18,Bayern Munich,Atalanta,0,0,Allianz Arena
+2026-03-18,Liverpool,Galatasaray,0,0,Anfield
+2026-03-18,Tottenham Hotspur,Atlético Madrid,0,0,Tottenham Hotspur Stadium
+2026-04-07,Round of 16 1 Winner,Round of 16 2 Winner,0,0,TBC
+2026-04-07,Round of 16 3 Winner,Round of 16 4 Winner,0,0,TBC
+2026-04-07,Round of 16 5 Winner,Round of 16 6 Winner,0,0,TBC
+2026-04-07,Round of 16 7 Winner,Round of 16 8 Winner,0,0,TBC
+2026-04-14,Round of 16 2 Winner,Round of 16 1 Winner,0,0,TBC
+2026-04-14,Round of 16 4 Winner,Round of 16 3 Winner,0,0,TBC
+2026-04-14,Round of 16 6 Winner,Round of 16 5 Winner,0,0,TBC
+2026-04-14,Round of 16 8 Winner,Round of 16 7 Winner,0,0,TBC
+2026-04-28,Quarterfinal 1 Winner,Quarterfinal 2 Winner,0,0,TBC
+2026-04-28,Quarterfinal 3 Winner,Quarterfinal 4 Winner,0,0,TBC
+2026-05-05,Quarterfinal 2 Winner,Quarterfinal 1 Winner,0,0,TBC
+2026-05-05,Quarterfinal 4 Winner,Quarterfinal 3 Winner,0,0,TBC
+2026-05-30,Semifinal 1 Winner,Semifinal 2 Winner,0,0,Puskás Aréna
